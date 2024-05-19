@@ -1,0 +1,2170 @@
+[
+  {
+    "id": 70000067,
+    "idCN": "头饰/墨黑暖绒耳罩",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "墨黑暖绒耳罩",
+    "des": "非常保暖的耳罩，能防止在严寒环境中被冻掉耳朵。",
+    "spineDataPath": "Home/Dress/dress2/dress2_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_InkinessPlushEarmuff",
+    "tipsPath": "Item/Dress/180/Head_InkinessPlushEarmuff",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "背饰/背饰1",
+    "mod": "默认",
+    "isInformalData": true,
+    "skinType": 12600692,
+    "name": "背饰",
+    "des": "",
+    "spineDataPath": "Home/Character/pifu2/pifu2_SkeletonData",
+    "skinPath": "Back",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/绯色日落驾驶镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "绯色日落驾驶镜",
+    "des": "颜色独特的最新款驾驶目镜，使人想起日落。",
+    "spineDataPath": "Home/Dress/dress1/dress1_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_ScarletSunsetSunglasses",
+    "tipsPath": "Item/Dress/180/Eye_ScarletSunsetSunglasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/驾驶辅助面具",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "驾驶辅助面具",
+    "des": "配发给铁盟列车长的驾驶辅助面具，工作期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress6/dress6_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Face_StandardUniform",
+    "tipsPath": "Item/Dress/180/Face_StandardUniform",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "裸模/下装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600690,
+    "name": "普通的睡裤",
+    "des": "",
+    "spineDataPath": "Home/Dress/dress8/dress8_SkeletonData",
+    "skinPath": "Bottom",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "裸模/上装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600689,
+    "name": "普通的睡衣",
+    "des": "",
+    "spineDataPath": "Home/Dress/dress8/dress8_SkeletonData",
+    "skinPath": "Up",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/铁盟标准列车长制服",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "铁盟标准列车长制服",
+    "des": "配发给铁盟列车长的正式制服，工作期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress6/dress6_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_StandardUniform",
+    "tipsPath": "Item/Dress/180/Suit_StandardUniform",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/铁盟标准列车长短靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "铁盟标准列车长短靴",
+    "des": "配发给铁盟列车长的正式鞋子，工作期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress6/dress6_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_StandardUniform",
+    "tipsPath": "Item/Dress/180/Shoes_StandardUniform",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/月壤探索连体服",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "月壤探索连体服",
+    "des": "临界前由阿妮塔航天设计的月面探索服装，如今依旧新潮。",
+    "spineDataPath": "Home/Dress/dress1/dress1_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_ExploringLunarSoilJumpsuit",
+    "tipsPath": "Item/Dress/180/Suit_ExploringLunarSoilJumpsuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/助理的心意",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "助理的心意",
+    "des": "由莉薇娅准备的防寒大衣，以及一个挂有专属坠饰的小斜挎包。",
+    "spineDataPath": "Home/Dress/dress2/dress2_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_AssistantsMind",
+    "tipsPath": "Item/Dress/180/Suit_AssistantsMind",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/远行考察护目镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "远行考察护目镜",
+    "des": "为实地考察而设计的护目镜，对面部起到多种防护作用。",
+    "spineDataPath": "Home/Dress/dress3/dress3_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_ExpeditionGoggles",
+    "tipsPath": "Item/Dress/180/Head_ExpeditionGoggles",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/旷野漫步连体服",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "旷野漫步连体服",
+    "des": "为实地考察而设计的连体服，对身体起到多种防护作用。",
+    "spineDataPath": "Home/Dress/dress3/dress3_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_WildernessRoamJumpsuit",
+    "tipsPath": "Item/Dress/180/Suit_WildernessRoamJumpsuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/御寒短靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "御寒短靴",
+    "des": "实用的御寒短靴，不惧一切积雪结冰地面。",
+    "spineDataPath": "Home/Dress/dress2/dress2_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_ColdResistantShortboots",
+    "tipsPath": "Item/Dress/180/Shoes_ColdResistantShortboots",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/TMT受训生制服男",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "TMT受训生制服男款",
+    "des": "配发给TMT受训生的制服，受训期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress4/dress4_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_TMTTraineesUniformBoy",
+    "tipsPath": "Item/Dress/180/Suit_TMTTraineesUniformBoy",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/TMT受训生制服女",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "TMT受训生制服女款",
+    "des": "配发给TMT受训生的制服，受训期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress5/dress5_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_TMTTraineesUniformGirl",
+    "tipsPath": "Item/Dress/180/Suit_TMTTraineesUniformGirl",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/TMT受训生制服鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "TMT受训生制服鞋",
+    "des": "配发给TMT受训生的鞋子，受训期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress4/dress4_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_TMTTraineesUniform",
+    "tipsPath": "Item/Dress/180/Shoes_TMTTraineesUniform",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/中途小憩",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "中途小憩",
+    "des": "柔软贴肤的遮光眼罩，随时都有好睡眠。",
+    "spineDataPath": "Home/Dress/dress7/dress7_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_MidwayRest",
+    "tipsPath": "Item/Dress/180/Head_MidwayRest",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/闲适旅途",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "闲适旅途",
+    "des": "保温材质的连体睡衣，穿上它相当于随身携带一只睡袋。",
+    "spineDataPath": "Home/Dress/dress7/dress7_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_ALeisurelyJourney",
+    "tipsPath": "Item/Dress/180/Suit_ALeisurelyJourney",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/信号波乱镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "信号波乱镜",
+    "des": "款式相当前卫的眼镜，戴上以后会让人看起来像是柯尼斯，还会在脑中冒出一些似乎不属于这个世界的声音。",
+    "spineDataPath": "Home/Dress/dress9/dress9_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_SignalDisturbanceGlasses",
+    "tipsPath": "Item/Dress/180/Eye_SignalDisturbanceGlasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/黄彼得的牛仔帽",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "黄彼得的牛仔帽",
+    "des": "曼德矿场经理的牛仔帽。今天你就是摇滚明星！",
+    "spineDataPath": "Home/Dress/dress10/dress10_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_PeterHuangHat",
+    "tipsPath": "Item/Dress/180/Head_PeterHuangHat",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Hat"
+  },
+  {
+    "id": 70000067,
+    "idCN": "上装/存款过亿纪念衫",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600689,
+    "name": "存款过亿纪念衫",
+    "des": "亿元户纪念T恤，见证一颗商业新星的冉冉诞生。",
+    "spineDataPath": "Home/Dress/dress11/dress11_SkeletonData",
+    "skinPath": "Up",
+    "iconPath": "Item/Dress/Up_DepositOver100MillionHonor",
+    "tipsPath": "Item/Dress/180/Up_DepositOver100MillionHonor",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ]
+  },
+  {
+    "id": 70000067,
+    "idCN": "下装/存款过亿纪念裤",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600690,
+    "name": "存款过亿纪念裤",
+    "des": "亿元户纪念牛仔裤，见证一颗商业新星的冉冉诞生。",
+    "spineDataPath": "Home/Dress/dress11/dress11_SkeletonData",
+    "skinPath": "Bottom",
+    "iconPath": "Item/Dress/Bottom_DepositOver100MillionHonor",
+    "tipsPath": "Item/Dress/180/Bottom_DepositOver100MillionHonor",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/存款过亿纪念鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "存款过亿纪念鞋",
+    "des": "亿元户纪念鞋，见证一颗商业新星的冉冉诞生。",
+    "spineDataPath": "Home/Dress/dress11/dress11_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_DepositOver100MillionHonor",
+    "tipsPath": "Item/Dress/180/Shoes_DepositOver100MillionHonor",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "裸模/鞋子",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "光脚",
+    "des": "",
+    "spineDataPath": "Home/Dress/dress8/dress8_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/新浪潮外套",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "新浪潮外套",
+    "des": "按照本季流行风格设计的衣装，上面的破洞装饰引人注目。",
+    "spineDataPath": "Home/Dress/dress12/dress12_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_NewWave",
+    "tipsPath": "Item/Dress/180/Suit_NewWave",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/新浪潮短靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "新浪潮短靴",
+    "des": "按照本季流行风格设计的短靴，干练简洁，锃锃闪亮。",
+    "spineDataPath": "Home/Dress/dress12/dress12_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_NewWave",
+    "tipsPath": "Item/Dress/180/Shoes_NewWave",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/列车上的百万富翁",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "列车上的百万富翁",
+    "des": "百万富翁纪念眼镜，通过外观标志你的独特身份。",
+    "spineDataPath": "Home/Dress/dress13/dress13_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_DepositOver1MillionHonor",
+    "tipsPath": "Item/Dress/180/Eye_DepositOver1MillionHonor",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/回形针头带",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "回形针头带",
+    "des": "别着巨大回形针的头带，容易把发型压乱。",
+    "spineDataPath": "Home/Dress/dress14/dress14_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_PaperClipBand",
+    "tipsPath": "Item/Dress/180/Head_PaperClipBand",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/非必要包扎",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "非必要包扎",
+    "des": "装饰作用胜于保护作用的包扎，彰显酷帅的街头风格。",
+    "spineDataPath": "Home/Dress/dress14/dress14_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Face_FakeBandage",
+    "tipsPath": "Item/Dress/180/Face_FakeBandage",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/光亮护目镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "光亮护目镜",
+    "des": "玻璃面异常光亮的护目镜，但透光度太差只能作为装饰。",
+    "spineDataPath": "Home/Dress/dress15/dress15_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_ShiningGlasses",
+    "tipsPath": "Item/Dress/180/Head_ShiningGlasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/漆黑鼻眼镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "漆黑鼻眼镜",
+    "des": "戴上以后会使整个人的气质变得玄之又玄的鼻夹眼睛。",
+    "spineDataPath": "Home/Dress/dress15/dress15_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_DarkenGlasses",
+    "tipsPath": "Item/Dress/180/Eye_DarkenGlasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/防眩光护目镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "防眩光护目镜",
+    "des": "能起到防止对向车道眩光伤眼的护目镜，是普通护目镜的升级款。",
+    "spineDataPath": "Home/Dress/dress16/dress16_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_OrangeGoggles",
+    "tipsPath": "Item/Dress/180/Eye_OrangeGoggles",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/钉上加钉",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "钉上加钉",
+    "des": "看起来会让人觉得非常痛的耳饰，其实只是利用了视觉效果。",
+    "spineDataPath": "Home/Dress/dress16/dress16_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Face_Dingding",
+    "tipsPath": "Item/Dress/180/Face_Dingding",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/金光一闪帽",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "金光一闪帽",
+    "des": "装饰了可爱金色星星的帽子，走动时一闪一闪。",
+    "spineDataPath": "Home/Dress/dress13/dress13_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_SparkingHat",
+    "tipsPath": "Item/Dress/180/Head_SparkingHat",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "发型/男/初始",
+    "mod": "发型",
+    "isInformalData": false,
+    "name": "初始男发型",
+    "des": "",
+    "skinType": 12600362,
+    "hairList": [
+      {
+        "hairType": "Default",
+        "skinPath": "Hair",
+        "spineDataPath": "Home/Dress/Hair/LieCheZhangBoy/Hair_Default/Hair_Boy0_Regular_SkeletonData"
+      },
+      {
+        "hairType": "Hat",
+        "skinPath": "Hair_hat",
+        "spineDataPath": "Home/Dress/Hair/LieCheZhangBoy/Hair_Hat/Hair_Boy0_Hat_SkeletonData"
+      }
+    ],
+    "skinPath": "",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      }
+    ]
+  },
+  {
+    "id": 70000067,
+    "idCN": "发型/女/初始",
+    "mod": "发型",
+    "isInformalData": false,
+    "name": "初始女发型",
+    "des": "",
+    "skinType": 12600362,
+    "hairList": [
+      {
+        "hairType": "Default",
+        "skinPath": "Hair",
+        "spineDataPath": "Home/Dress/Hair/LieCheZhangGirl/Hair_Default/Hair_Girl0_Regular_SkeletonData"
+      },
+      {
+        "hairType": "Hat",
+        "skinPath": "Hair_hat",
+        "spineDataPath": "Home/Dress/Hair/LieCheZhangGirl/Hair_Hat/Hair_Girl0_Hat_SkeletonData"
+      }
+    ],
+    "skinPath": "",
+    "iconPath": "",
+    "tipsPath": "",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000173
+      }
+    ]
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/活泼兔子套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "活泼兔子套装",
+    "des": "有许多兔子装饰的套装，不过并没有因此显得过分可爱。萌系装饰与帅气的剪裁相得益彰。",
+    "spineDataPath": "Home/Dress/dress22/dress22_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_BunnySuit",
+    "tipsPath": "Item/Dress/180/Suit_BunnySuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/兔耳头带",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "兔耳头带",
+    "des": "扎成兔耳形状的头带，要扎成随性而美观的效果需要多次练习。",
+    "spineDataPath": "Home/Dress/dress22/dress22_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_BunnyHairBand",
+    "tipsPath": "Item/Dress/180/Head_BunnyHairBand",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/活泼兔子鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "活泼兔子鞋",
+    "des": "鞋底非常柔软，便于跑跳，卖点是“让您像兔子一样一蹦三尺高”。",
+    "spineDataPath": "Home/Dress/dress22/dress22_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_BunnyShoes",
+    "tipsPath": "Item/Dress/180/Shoes_BunnyShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/飞行员夹克",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "飞行员夹克",
+    "des": "过去配备给飞行员的夹克，毛领十分温暖。",
+    "spineDataPath": "Home/Dress/dress17/dress17_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_PilotJakect",
+    "tipsPath": "Item/Dress/180/Suit_PilotJakect",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/飞行员短靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "飞行员短靴",
+    "des": "配发给TMT受训生的鞋子，受训期间的规范穿着。",
+    "spineDataPath": "Home/Dress/dress17/dress17_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_Shoes",
+    "tipsPath": "Item/Dress/180/Shoes_Shoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/飞行员墨镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "飞行员墨镜",
+    "des": "过去配备给飞行员的墨镜，能够有效隔绝高海拔紫外线。",
+    "spineDataPath": "Home/Dress/dress17/dress17_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_PilotSunglasses",
+    "tipsPath": "Item/Dress/180/Head_PilotSunglasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/交错发夹",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "交错发夹",
+    "des": "简约而不会落伍的经典款发夹。",
+    "spineDataPath": "Home/Dress/dress18/dress18_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_CrossHairClip",
+    "tipsPath": "Item/Dress/180/Head_CrossHairClip",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/随性套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "随性套装",
+    "des": "简约而不会落伍的时尚搭配。",
+    "spineDataPath": "Home/Dress/dress18/dress18_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_CasualSuit",
+    "tipsPath": "Item/Dress/180/Suit_CasualSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/恐龙头骨",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "恐龙头骨",
+    "des": "据说是流行的“骨风穿搭”，但这可是恐龙头骨啊。",
+    "spineDataPath": "Home/Dress/dress23/dress23_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_DinosaurSkull",
+    "tipsPath": "Item/Dress/180/Head_DinosaurSkull",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/恐龙研究外套",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "恐龙研究外套",
+    "des": "被用于和黑白花色头骨搭配的外套，选择了与头骨相同的花色。",
+    "spineDataPath": "Home/Dress/dress23/dress23_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_DinosaurSuit",
+    "tipsPath": "Item/Dress/180/Suit_DinosaurSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/恐龙研究鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "恐龙研究鞋",
+    "des": "被用于和黑白花色头骨搭配的鞋子，搭配堆堆袜的效果不错。",
+    "spineDataPath": "Home/Dress/dress23/dress23_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_DinosaurShoes",
+    "tipsPath": "Item/Dress/180/Shoes_DinosaurShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/熊猫耳",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "熊猫耳",
+    "des": "看起来不是很仿真的熊猫耳，似乎是黑月游乐城某个店铺的纪念品。",
+    "spineDataPath": "Home/Dress/dress24/dress24_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_PandaEars",
+    "tipsPath": "Item/Dress/180/Head_PandaEars",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/夹子",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "夹子",
+    "des": "普通的夹子……直到它出现在列车长的耳朵上。",
+    "spineDataPath": "Home/Dress/dress24/dress24_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Face_Jiazi",
+    "tipsPath": "Item/Dress/180/Face_Jiazi",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/梦想未来套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "梦想未来套装",
+    "des": "配色颇为潮流的外套，很适合穿去逛街，回头率很高。",
+    "spineDataPath": "Home/Dress/dress24/dress24_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_DreamFutureSuit",
+    "tipsPath": "Item/Dress/180/Suit_DreamFutureSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/梦想未来鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "梦想未来鞋",
+    "des": "配色颇为潮流的新款鞋，走在街上会被提问“你怎么已经抢到了？”",
+    "spineDataPath": "Home/Dress/dress24/dress24_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_DreamFutureShoes",
+    "tipsPath": "Item/Dress/180/Shoes_DreamFutureShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/封印头饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "封印头饰",
+    "des": "此乃封印黑铁之力的头饰。为什么是绷带形状就别问了。",
+    "spineDataPath": "Home/Dress/dress25/dress25_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_TheSeal",
+    "tipsPath": "Item/Dress/180/Head_TheSeal",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/邪王眼罩",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "邪王眼罩",
+    "des": "爆裂吧现实！粉碎吧精神！啊……我的眼睛……",
+    "spineDataPath": "Home/Dress/dress25/dress25_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_TheDarkEye",
+    "tipsPath": "Item/Dress/180/Eye_TheDarkEye",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/源泉套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "源泉套装",
+    "des": "此乃增幅魔王之力的战袍……",
+    "spineDataPath": "Home/Dress/dress25/dress25_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_TheWell",
+    "tipsPath": "Item/Dress/180/Suit_TheWell",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/苏生之靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "苏生之靴",
+    "des": "此乃使得永夜之魂灵复苏的祭品！",
+    "spineDataPath": "Home/Dress/dress25/dress25_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_TheWake",
+    "tipsPath": "Item/Dress/180/Shoes_TheWake",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/鹅黄塑料雨衣",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "鹅黄塑料雨衣",
+    "des": "经典款的鹅黄色塑料雨衣，相当厚实，质量良好。",
+    "spineDataPath": "Home/Dress/dress26/dress26_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_YellowRainCoat",
+    "tipsPath": "Item/Dress/180/Suit_YellowRainCoat",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/小小雨滴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "小小雨滴",
+    "des": "跟随着你的小小雨滴，不过并不会沾湿你的头发。",
+    "spineDataPath": "Home/Dress/dress26/dress26_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_LittleRaindrop",
+    "tipsPath": "Item/Dress/180/Head_LittleRaindrop",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/鹅黄雨靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "鹅黄雨靴",
+    "des": "经典款的雨靴。有了它就能随便踩水洼了！",
+    "spineDataPath": "Home/Dress/dress26/dress26_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_YellowRainBoots",
+    "tipsPath": "Item/Dress/180/Shoes_YellowRainBoots",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/轻便登山套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "轻便登山套装",
+    "des": "轻便透气的登山服套装，附送了一个实用小腰包。",
+    "spineDataPath": "Home/Dress/dress27/dress27_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_ClimbingSuit",
+    "tipsPath": "Item/Dress/180/Suit_ClimbingSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/轻便登山鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "轻便登山鞋",
+    "des": "轻便透气的登山鞋，无论攀岩还是溯溪均能驾驭。",
+    "spineDataPath": "Home/Dress/dress27/dress27_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_ClimbingShoes",
+    "tipsPath": "Item/Dress/180/Shoes_ClimbingShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/雪国信使羽饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "雪国信使羽饰",
+    "des": "故事中的雪国信使所佩戴的羽饰，总是代表着好消息。",
+    "spineDataPath": "Home/Dress/dress28/dress28_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_SnowPorterFeather",
+    "tipsPath": "Item/Dress/180/Head_SnowPorterFeather",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/雪国信使大衣",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "雪国信使大衣",
+    "des": "故事中的雪国信使所穿的大衣，保证他们不受恶劣天气的侵扰，永远按时赴约。",
+    "spineDataPath": "Home/Dress/dress28/dress28_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_SnowPorterCoat",
+    "tipsPath": "Item/Dress/180/Suit_SnowPorterCoat",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/雪国信使短靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "雪国信使短靴",
+    "des": "故事中的雪国信使所穿的短靴，能在雪地上留下只有孩子看得见的足迹。",
+    "spineDataPath": "Home/Dress/dress28/dress28_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_SnowPorterBoots",
+    "tipsPath": "Item/Dress/180/Shoes_SnowPorterBoots",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/意外之财符",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "意外之财符",
+    "des": "具有神奇作用的符纸，据说贴在脑门上就能招来一笔数额随机的意外之财。",
+    "spineDataPath": "Home/Dress/head1/head1_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_Yiwaizhicai",
+    "tipsPath": "Item/Dress/180/Head_Yiwaizhicai",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/眼球头饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "眼球头饰",
+    "des": "吸引眼球的眼球头饰。这种装饰带出去容易吓到人哦。",
+    "spineDataPath": "Home/Dress/head2/head2_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_EyeballsHeaddress",
+    "tipsPath": "Item/Dress/180/Head_EyeballsHeaddress",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/荒地猎者头饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "荒地猎者头饰",
+    "des": "荒野中离群索居的猎者的头饰，不过这条完全是工业流水线制造的纺织品。羽毛是假的。",
+    "spineDataPath": "Home/Dress/head3/head3_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_WildHunterHead",
+    "tipsPath": "Item/Dress/180/Head_WildHunterHead",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/亚人耳",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "亚人耳",
+    "des": "仿照亚人的耳朵结构制造的耳朵，戴上以后你也能变得像他们一样毛茸茸。",
+    "spineDataPath": "Home/Dress/head4/head4_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_DemihumanEar",
+    "tipsPath": "Item/Dress/180/Head_DemihumanEar",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/电子亚人耳",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "电子亚人耳",
+    "des": "仿照某个电子游戏中的机械亚人女性制造的耳朵，戴上以后仿佛能够化身为游戏角色。",
+    "spineDataPath": "Home/Dress/head5/head5_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_ElectrDemihumanEar",
+    "tipsPath": "Item/Dress/180/Head_ElectrDemihumanEar",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/淘金风潮帽",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "淘金风潮帽",
+    "des": "流行于多年前的淘金者必备装扮。时至今日，还能在资料馆中的旧报纸照片中找到它的踪迹。",
+    "spineDataPath": "Home/Dress/head6/head6_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_GoldRushHat",
+    "tipsPath": "Item/Dress/180/Head_GoldRushHat",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/伏魔之钉",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "伏魔之钉",
+    "des": "据称能够降妖伏魔的符纸，比起一般的符纸加装了钉子，看起来就脑袋很痛。",
+    "spineDataPath": "Home/Dress/head7/head7_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_FumoSticker",
+    "tipsPath": "Item/Dress/180/Head_FumoSticker",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/加载发夹",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "加载发夹",
+    "des": "表现了疑惑和思考的发夹。戴上以后仿佛脑中充满了呼之欲出的内容……",
+    "spineDataPath": "Home/Dress/head8/head8_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_LoadingHairClip",
+    "tipsPath": "Item/Dress/180/Head_LoadingHairClip",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/无语发夹",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "无语发夹",
+    "des": "表现了沉默与无可奉告的发夹。戴上以后让人一句话也不想说。",
+    "spineDataPath": "Home/Dress/head9/head9_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_SpeechlessHairClip",
+    "tipsPath": "Item/Dress/180/Head_SpeechlessHairClip",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/大脑停转眼罩",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "大脑停转眼罩",
+    "des": "只要戴上就会显得不太聪明的眼罩，如果想建立可信形象的话，就别在其他乘员面前使用了吧。",
+    "spineDataPath": "Home/Dress/eye1/eye1_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_BrainDownBlindfold",
+    "tipsPath": "Item/Dress/180/Eye_BrainDownBlindfold",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/碧蓝之眼",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "碧蓝之眼",
+    "des": "充满幻想之力的眼罩。现在就发起连携攻击吧！",
+    "spineDataPath": "Home/Dress/eye2/eye2_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_GranblueEye",
+    "tipsPath": "Item/Dress/180/Eye_GranblueEye",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/狂飙焚镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "狂飙焚镜",
+    "des": "仿照了修格里城某个帮派首领的挚爱款式制作的墨镜，让人不由自主地想来上一段RAP。",
+    "spineDataPath": "Home/Dress/eye3/eye3_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_MoleGlasses",
+    "tipsPath": "Item/Dress/180/Eye_MoleGlasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/萌兔单眼罩",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "萌兔单眼罩",
+    "des": "图案与款式完全相悖的眼罩，或许是想在中二的同时发扬可爱气息？",
+    "spineDataPath": "Home/Dress/eye4/eye4_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_RabbitSideBlindfold",
+    "tipsPath": "Item/Dress/180/Eye_RabbitSideBlindfold",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "眼饰/歌者之花",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600624,
+    "name": "歌者之花",
+    "des": "一款经典电子游戏中主角的装扮，经过了改良设计，不必以忠于原作的方式加装于眼部。此为即使世界数度毁灭也会留存的泪之花。",
+    "spineDataPath": "Home/Dress/eye5/eye5_SkeletonData",
+    "skinPath": "Eye",
+    "iconPath": "Item/Dress/Eye_UtauHana",
+    "tipsPath": "Item/Dress/180/Eye_UtauHana",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/出鬼耳夹",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "出鬼耳夹",
+    "des": "精致迷你的小幽灵耳夹，比起其他的恐怖风格装扮，这个耳夹非常适合日常穿搭。",
+    "spineDataPath": "Home/Dress/face1/face1_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Eye_GhostOutEarring",
+    "tipsPath": "Item/Dress/180/Eye_GhostOutEarring",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/疤痕面贴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "疤痕面贴",
+    "des": "狰狞的疤痕纹身贴。宣传语声称它是仿真款，不过到底符合与否，就见仁见智啦。",
+    "spineDataPath": "Home/Dress/face2/face2_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Eye_ScarFaceSticker",
+    "tipsPath": "Item/Dress/180/Eye_ScarFaceSticker",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/女仆装束",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "女仆装束",
+    "des": "女仆套装的主体裙子，考虑到顾客可能有迅速穿脱的需求，将背带和蝴蝶结改为了固定款式。",
+    "spineDataPath": "Home/Dress/dress29/dress29_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_MaidDress",
+    "tipsPath": "Item/Dress/180/Suit_MaidDress",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/女仆头饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "女仆头饰",
+    "des": "女仆套装中包含的头饰，每道褶皱都是预先缝制好的。真正的女仆容不得任何不完美。",
+    "spineDataPath": "Home/Dress/dress29/dress29_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_MaidHairband",
+    "tipsPath": "Item/Dress/180/Head_MaidHairband",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/女仆皮靴",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "女仆皮靴",
+    "des": "女仆套装中包含的标准小皮靴，耐磨柔软轻便，端茶送水十个来回也不会累。",
+    "spineDataPath": "Home/Dress/dress29/dress29_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_MaidShoes",
+    "tipsPath": "Item/Dress/180/Shoes_MaidShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "面饰/恒星耳钉",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600688,
+    "name": "恒星耳钉",
+    "des": "戴上就能给人信心的闪亮耳饰，你就是舞台上永不落下的恒星。",
+    "spineDataPath": "Home/Dress/dress30/dress30_SkeletonData",
+    "skinPath": "Face",
+    "iconPath": "Item/Dress/Face_SiderealEarring",
+    "tipsPath": "Item/Dress/180/Face_SiderealEarring",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/柔软梦乡",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "柔软梦乡",
+    "des": "柔软贴合而不失美观的束发带，能防止梦中吃到满嘴头发。",
+    "spineDataPath": "Home/Dress/dress31/dress31_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_PajamaHairband",
+    "tipsPath": "Item/Dress/180/Head_PajamaHairband",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/古典洛丽塔头饰",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "古典洛丽塔头饰",
+    "des": "古典风格的洛丽塔头饰，采用简单而不失优雅的色彩搭配。",
+    "spineDataPath": "Home/Dress/dress32/dress32_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_ClassicLolitaHairband",
+    "tipsPath": "Item/Dress/180/Head_ClassicLolitaHairband",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/风潮套装",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "风潮套装",
+    "des": "引领时尚风潮的套装。但有人将名字中的“风潮”解读为又漏风又潮湿之意……",
+    "spineDataPath": "Home/Dress/dress30/dress30_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_TrendingSuit",
+    "tipsPath": "Item/Dress/180/Suit_TrendingSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/舒适睡眠",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "舒适睡眠",
+    "des": "宽松的短款睡衣和颜色相搭配的外套，很适合作为家居服。",
+    "spineDataPath": "Home/Dress/dress31/dress31_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_PajamaSuit",
+    "tipsPath": "Item/Dress/180/Suit_PajamaSuit",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/古典洛丽塔裙",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "古典洛丽塔裙",
+    "des": "古典风格的洛丽塔裙装，自多年前流行至今。即Classic Lolita。纯粹派的最爱。",
+    "spineDataPath": "Home/Dress/dress32/dress32_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_ClassicLolitaDress",
+    "tipsPath": "Item/Dress/180/Suit_ClassicLolitaDress",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/风潮凉鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "风潮凉鞋",
+    "des": "引领时尚风潮的凉鞋，款式简单而价格不菲，能让不知情者发出“这么贵？！”的感叹声。",
+    "spineDataPath": "Home/Dress/dress30/dress30_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_TrendingShoes",
+    "tipsPath": "Item/Dress/180/Shoes_TrendingShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/轻飘飘脚步",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "轻飘飘脚步",
+    "des": "让人觉得如同踩在云端的室内鞋，脚感舒适，落地无声。",
+    "spineDataPath": "Home/Dress/dress31/dress31_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_PajamaShoes",
+    "tipsPath": "Item/Dress/180/Shoes_PajamaShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/古典洛丽塔鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "古典洛丽塔鞋",
+    "des": "做工精良的小皮鞋，适合搭配古典风格的洛丽塔裙。",
+    "spineDataPath": "Home/Dress/dress32/dress32_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_ClassicLolitaShoes",
+    "tipsPath": "Item/Dress/180/Shoes_ClassicLolitaShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "头饰/航天动力目镜",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600687,
+    "name": "航天动力目镜",
+    "des": "阿妮塔航天动力实验室研发的护目镜。显然不能在太空中穿戴，但可以作为酷炫且功能冗余的实验目镜使用。",
+    "spineDataPath": "Home/Dress/dress37/dress37_SkeletonData",
+    "skinPath": "Head",
+    "iconPath": "Item/Dress/Head_RokectGlasses",
+    "tipsPath": "Item/Dress/180/Head_RokectGlasses",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "套装/航天动力连体服",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600691,
+    "name": "航天动力连体服",
+    "des": "阿妮塔航天动力实验室研发的连体服，配备了喷射系统，便于在失重环境下移动。一般环境用不上。",
+    "spineDataPath": "Home/Dress/dress37/dress37_SkeletonData",
+    "skinPath": "Suit",
+    "iconPath": "Item/Dress/Suit_RokectSuits",
+    "tipsPath": "Item/Dress/180/Suit_RokectSuits",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  },
+  {
+    "id": 70000067,
+    "idCN": "鞋子/航天动力鞋",
+    "mod": "默认",
+    "isInformalData": false,
+    "skinType": 12600693,
+    "name": "航天动力鞋",
+    "des": "阿妮塔航天动力实验室研发的宇航鞋，与连体服配套使用效果更佳。沃斯托克向你说了很多话来介绍它的特别之处。",
+    "spineDataPath": "Home/Dress/dress37/dress37_SkeletonData",
+    "skinPath": "Shoes",
+    "iconPath": "Item/Dress/Shoes_RokectShoes",
+    "tipsPath": "Item/Dress/180/Shoes_RokectShoes",
+    "quality": "Golden",
+    "character": [
+      {
+        "id": 10000137
+      },
+      {
+        "id": 10000173
+      }
+    ],
+    "hairType": "Default"
+  }
+]
